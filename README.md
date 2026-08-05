@@ -1,7 +1,6 @@
-# 🎮 Ligue 4++ (Connect 4++)
+# Ligue 4++ (Connect 4++)
 
-![Linguagem](https://img.shields.io/badge/Linguagem-C-blue)
-![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
+
 
 ## Sobre o Projeto
 
