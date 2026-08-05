@@ -28,7 +28,7 @@ O jogo conta com um grid padrão de 6x7, simulação de gravidade e as seguintes
 *   **Ambiente de Desenvolvimento (IDE):** Dev-C++
 *   **Conceitos Aplicados:** Estruturas de dados (matrizes, structs), Recursividade, Manipulação de Arquivos (`fopen`, `fprintf`, `fscanf`), Lógica de Validação e Interface via Console.
 
-## 🚀 Como Executar
+## Como Executar
 
 ### Pré-requisitos
 Para rodar este jogo, você precisará de um compilador de C (como o GCC) ou uma IDE como o Dev-C++ instalada na sua máquina.
